@@ -27,10 +27,10 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 45,
+      "FontSize": 30,
       "Pos": {
-        "X": 47,
-        "Y": 149
+        "X": 35,
+        "Y": 239
       }
     },
     "GuildLevel": {
@@ -131,8 +131,8 @@
       },
       "Awarded": {
         "Color": "ffffff",
-        "Show": true,
-        "FontSize": 25,
+        "Show": false,
+        "FontSize": 0,
         "Pos": {
           "X": 445,
           "Y": 347
