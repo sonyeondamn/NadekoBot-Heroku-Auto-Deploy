@@ -29,8 +29,8 @@
       "Show": true,
       "FontSize": 26,
       "Pos": {
-        "X": 295,
-        "Y": 174
+        "X": 292,
+        "Y": 171
       }
     },
     "GuildLevel": {
@@ -38,8 +38,8 @@
       "Show": true,
       "FontSize": 26,
       "Pos": {
-        "X": 295,
-        "Y": 270
+        "X": 292,
+        "Y": 267
       }
     },
     "GlobalRank": {
