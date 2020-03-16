@@ -7,10 +7,10 @@
     "Name": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 50,
+      "FontSize": 40,
       "Pos": {
         "X": 173,
-        "Y": 28
+        "Y": 17
       }
     },
     "Icon": {
@@ -20,8 +20,8 @@
         "Y": 17
       },
       "Size": {
-        "X": 94,
-        "Y": 94
+        "X": 92,
+        "Y": 92
       }
     },
     "GlobalLevel": {
