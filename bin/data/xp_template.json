@@ -45,16 +45,16 @@
     "GlobalRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 30,
+      "FontSize": 26,
       "Pos": {
-        "X": 148,
+        "X": 295,
         "Y": 179
       }
     },
     "GuildRank": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 30,
+      "FontSize": 26,
       "Pos": {
         "X": 148,
         "Y": 326
