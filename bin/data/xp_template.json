@@ -30,7 +30,7 @@
       "FontSize": 26,
       "Pos": {
         "X": 295,
-        "Y": 179
+        "Y": 174
       }
     },
     "GuildLevel": {
@@ -39,7 +39,7 @@
       "FontSize": 26,
       "Pos": {
         "X": 295,
-        "Y": 275
+        "Y": 270
       }
     },
     "GlobalRank": {
