@@ -112,7 +112,7 @@
         }
       },
       "Global": {
-        "Color": "ffffff",
+        "Color": "000000",
         "Show": true,
         "FontSize": 28,
         "Pos": {
@@ -121,7 +121,7 @@
         }
       },
       "Guild": {
-        "Color": "ffffff",
+        "Color": "000000",
         "Show": true,
         "FontSize": 28,
         "Pos": {
