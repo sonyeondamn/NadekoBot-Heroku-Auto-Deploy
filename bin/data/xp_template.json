@@ -27,7 +27,7 @@
     "GlobalLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 30,
+      "FontSize": 26,
       "Pos": {
         "X": 295,
         "Y": 179
@@ -36,7 +36,7 @@
     "GuildLevel": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 45,
+      "FontSize": 26,
       "Pos": {
         "X": 295,
         "Y": 275
@@ -56,8 +56,8 @@
       "Show": true,
       "FontSize": 26,
       "Pos": {
-        "X": 148,
-        "Y": 326
+        "X": 323,
+        "Y": 298
       }
     },
     "TimeOnLevel": {
