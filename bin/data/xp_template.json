@@ -114,10 +114,10 @@
       "Global": {
         "Color": "ffffff",
         "Show": true,
-        "FontSize": 30,
+        "FontSize": 27,
         "Pos": {
           "X": 35,
-          "Y": 229
+          "Y": 220
         }
       },
       "Guild": {
