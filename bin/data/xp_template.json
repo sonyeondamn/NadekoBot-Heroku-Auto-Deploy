@@ -74,10 +74,10 @@
       "Guild": {
         "Color": "ffffff",
         "Show": true,
-        "FontSize": 20,
+        "FontSize": 26,
         "Pos": {
-          "X": 50,
-          "Y": 351
+          "X": 285,
+          "Y": 360
         }
       }
     },
@@ -123,9 +123,9 @@
       "Guild": {
         "Color": "ffffff",
         "Show": true,
-        "FontSize": 50,
+        "FontSize": 28,
         "Pos": {
-          "X": 400,
+          "X": 35,
           "Y": 282
         }
       },
