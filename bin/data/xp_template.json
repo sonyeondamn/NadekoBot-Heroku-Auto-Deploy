@@ -5,12 +5,12 @@
   },
   "User": {
     "Name": {
-      "Color": "000000",
+      "Color": "ffffff",
       "Show": true,
       "FontSize": 50,
       "Pos": {
-        "X": 130,
-        "Y": 17
+        "X": 173,
+        "Y": 28
       }
     },
     "Icon": {
@@ -25,7 +25,7 @@
       }
     },
     "GlobalLevel": {
-      "Color": "000000",
+      "Color": "ffffff",
       "Show": true,
       "FontSize": 45,
       "Pos": {
@@ -34,7 +34,7 @@
       }
     },
     "GuildLevel": {
-      "Color": "000000",
+      "Color": "ffffff",
       "Show": true,
       "FontSize": 45,
       "Pos": {
@@ -43,7 +43,7 @@
       }
     },
     "GlobalRank": {
-      "Color": "000000",
+      "Color": "ffffff",
       "Show": true,
       "FontSize": 30,
       "Pos": {
@@ -52,7 +52,7 @@
       }
     },
     "GuildRank": {
-      "Color": "000000",
+      "Color": "ffffff",
       "Show": true,
       "FontSize": 30,
       "Pos": {
@@ -63,7 +63,7 @@
     "TimeOnLevel": {
       "Format": "{0}d",
       "Global": {
-        "Color": "000000",
+        "Color": "ffffff",
         "Show": true,
         "FontSize": 20,
         "Pos": {
@@ -72,7 +72,7 @@
         }
       },
       "Guild": {
-        "Color": "000000",
+        "Color": "ffffff",
         "Show": true,
         "FontSize": 20,
         "Pos": {
@@ -112,7 +112,7 @@
         }
       },
       "Global": {
-        "Color": "ffffffff",
+        "Color": "ffffff",
         "Show": true,
         "FontSize": 50,
         "Pos": {
@@ -121,7 +121,7 @@
         }
       },
       "Guild": {
-        "Color": "ffffffff",
+        "Color": "ffffff",
         "Show": true,
         "FontSize": 50,
         "Pos": {
@@ -130,7 +130,7 @@
         }
       },
       "Awarded": {
-        "Color": "ffffffff",
+        "Color": "ffffff",
         "Show": true,
         "FontSize": 25,
         "Pos": {
@@ -153,7 +153,7 @@
       }
     },
     "Name": {
-      "Color": "ffffffff",
+      "Color": "ffffff",
       "Show": true,
       "FontSize": 35,
       "Pos": {
